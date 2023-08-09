@@ -12,7 +12,5 @@
 особенности решения этой версии:
 - адаптивная верстка
 - переключение с помощью перечисления и switch
-![[Simulator Screen Shot - iPhone 14 Pro - 2023-08-09 at 16.31.25.png]]
-![[Simulator Screen Shot - iPhone 14 Pro - 2023-08-09 at 16.31.28.png]]
-![[Simulator Screen Shot - iPhone 14 Pro - 2023-08-09 at 16.31.30.png]]
-![[Simulator Screen Shot - iPhone 14 Pro - 2023-08-09 at 16.31.32.png]]
+
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)

@@ -24,6 +24,7 @@
 		0AAC96202A83C37900864353 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0AAC96232A83C37900864353 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0AAC96252A83C37900864353 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0AAC96402A83D0A900864353 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		0AAC960B2A83C37600864353 = {
 			isa = PBXGroup;
 			children = (
+				0AAC96402A83D0A900864353 /* README.md */,
 				0AAC96162A83C37600864353 /* TrafficLightV2 */,
 				0AAC96152A83C37600864353 /* Products */,
 			);

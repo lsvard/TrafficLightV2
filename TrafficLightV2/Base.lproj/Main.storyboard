@@ -37,8 +37,8 @@
                                     <constraint firstAttribute="width" secondItem="C2T-ol-cCL" secondAttribute="height" multiplier="1:1" id="u2l-Uf-PJh"/>
                                 </constraints>
                             </stackView>
-                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WIw-OB-yp1">
-                                <rect key="frame" x="117" y="762" width="180" height="60"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WIw-OB-yp1">
+                                <rect key="frame" x="117" y="768" width="180" height="54"/>
                                 <color key="backgroundColor" name="AccentColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="180" id="trS-Yn-eiC"/>

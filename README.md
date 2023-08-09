@@ -13,4 +13,4 @@
 - адаптивная верстка
 - переключение с помощью перечисления и switch
 
-![Image alt]<img src="(https://github.com/TrafficLightV2/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-08-09%20at%2016.31.25.png)" width="50%" height="50%" />
+![Image alt](https://github.com/TrafficLightV2/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-08-09%20at%2016.31.25.png) {width=250}

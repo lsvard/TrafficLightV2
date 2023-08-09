@@ -38,10 +38,10 @@
                                 </constraints>
                             </stackView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WIw-OB-yp1">
-                                <rect key="frame" x="117" y="768" width="180" height="54"/>
+                                <rect key="frame" x="122" y="768" width="170" height="54"/>
                                 <color key="backgroundColor" name="AccentColor"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="180" id="trS-Yn-eiC"/>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="170" id="trS-Yn-eiC"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="35"/>
                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
@@ -53,10 +53,10 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="WIw-OB-yp1" secondAttribute="bottom" constant="40" id="2fA-FH-rPP"/>
                             <constraint firstItem="MhI-1S-IJF" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="0.613839" id="3ZH-Os-p81"/>
                             <constraint firstItem="MhI-1S-IJF" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="40" id="3dz-cI-dGV"/>
-                            <constraint firstItem="WIw-OB-yp1" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Z5u-LL-ftw"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="WIw-OB-yp1" secondAttribute="bottom" constant="40" id="HdT-1e-F2M"/>
+                            <constraint firstItem="WIw-OB-yp1" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="VKc-cF-kBc"/>
                             <constraint firstItem="MhI-1S-IJF" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="cP5-xJ-AKl"/>
                         </constraints>
                     </view>

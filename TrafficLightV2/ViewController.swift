@@ -20,8 +20,8 @@ class ViewController: UIViewController {
     @IBOutlet var startButton: UIButton!
     
     private var currentLight = CurrentLight.red
-    private var lightIsOn = 1
-    private var lightIsOff = 0.3
+    private var lightIsOn: CGFloat = 1
+    private var lightIsOff: CGFloat = 0.3
     
     override func viewDidLoad() {
         

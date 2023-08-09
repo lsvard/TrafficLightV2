@@ -12,5 +12,8 @@
 особенности решения этой версии:
 - адаптивная верстка
 - переключение с помощью перечисления и switch
-![Screenshot](https://github.com/lsvard/TrafficLightV2/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-08-09%20at%2016.31.25.png) 
 
+![Simulator Screen Shot - iPhone 1](https://github.com/lsvard/TrafficLightV2/assets/119428549/b470591f-b411-4167-b57a-8313f7946ae9)
+![Simulator Screen Shot - iPhone 1 (6)](https://github.com/lsvard/TrafficLightV2/assets/119428549/50008b72-a4f7-453c-8968-f456f3fa3c40)
+![Simulator Screen Shot - iPhone 1 (7)](https://github.com/lsvard/TrafficLightV2/assets/119428549/5ef0e31b-922c-4f86-afea-adada18472fb)
+![Simulator Screen Shot - iPhone 1 (8)](https://github.com/lsvard/TrafficLightV2/assets/119428549/dfc9d2ef-669f-4a26-987c-7dc8ea5cbdd1)

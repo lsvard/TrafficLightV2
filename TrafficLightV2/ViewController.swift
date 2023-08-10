@@ -24,8 +24,8 @@ class ViewController: UIViewController {
     private var lightIsOff: CGFloat = 0.3
     
     override func viewDidLoad() {
-        
         super.viewDidLoad()
+        
         startButton.layer.cornerRadius = 10
         
         redView.alpha = lightIsOff
